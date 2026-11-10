@@ -2,8 +2,8 @@ project:
   type: book
 
 book:
-  title: "quantobook"
-  author: "Jane Doe"
+  title: "Quantitative Techniques and Analytics"
+  author: "Vishal Katti"
   date: "3/13/2023"
   chapters:
     - index.qmd
